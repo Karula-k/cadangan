@@ -1,10 +1,15 @@
 # depslib dependency file v1.0
-1607173202 source:d:\w\project\cadangan\cadangan\main.cpp
+1608815162 source:d:\w\c++\cadangan\main.cpp
 	<GL/glut.h>
 	<iostream>
 	<stdlib.h>
+	<ctime>
+	<fstream>
+	<string>
+	<sstream>
 	"player.h"
 	"enemy.h"
+	"printer.h"
 
 881786480 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
 	<windows.h>
@@ -221,7 +226,9 @@
 	<stddef.h>
 	<GL/gl.h>
 
-1607173316 d:\w\project\cadangan\cadangan\player.h
+1607058456 d:\w\c++\cadangan\player.h
 
-1607173330 d:\w\project\cadangan\cadangan\enemy.h
+1607435442 d:\w\c++\cadangan\enemy.h
+
+1607436171 d:\w\c++\cadangan\printer.h
 
